@@ -1,0 +1,1 @@
+Developed a data analysis project focused on optimizing query responses for agricultural data. Utilized advanced data processing techniques to analyze large datasets, identify patterns, and improve the accuracy and efficiency of query handling. Implemented data visualization tools to present insights, enhancing decision-making for farmers and stakeholders.
