@@ -1,4 +1,4 @@
-# Farmer Query Data Analysis
+# Empowering Farmers with Data-Driven Solutions
 
 This repository contains the code for analyzing farmer query data collected from Kisan Call Centres (KCC). The project focuses on analyzing queries raised by farmers to gain insights into the challenges faced by them in different regions of India. The data includes attributes such as Sector, Category, Crop, Query Type, State, District, Block, and Submission Time. The analysis helps in automating responses to similar queries in the future, thus improving the efficiency of KCC.
 
